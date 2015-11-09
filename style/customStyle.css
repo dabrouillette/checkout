@@ -1,0 +1,24 @@
+
+body {
+    padding: 20px;
+    background-image: url("/checkout/imgs/swoop-bg.png");
+}
+
+.wrapper {
+    height: 100%;
+    width: 100%;
+    padding: 50px 100px;
+}
+
+
+.brand-image img{
+    width: 80%;
+}
+
+label::before {
+    content: "*";
+}
+
+.form-group {
+    margin-bottom: 5px;
+}
